@@ -1,0 +1,75 @@
+SWV ITM Data Console - ITM Port: 0
+0 : Running on Default Tasks..
+Gyro X: 0, Y: 0, Z: 0
+1 : Running on Default Tasks..
+Gyro X: -1, Y: -1, Z: -1
+2 : Running on Default Tasks..
+Gyro X: -1, Y: -1, Z: -1
+3 : Running on Default Tasks..
+Gyro X: -1, Y: -1, Z: -1
+4 : Running on Default Tasks..
+Gyro X: -1, Y: -1, Z: -1
+5 : Running on Default Tasks..
+Gyro X: -1, Y: -1, Z: -1
+6 : Running on Default Tasks..
+Gyro X: -1, Y: -1, Z: -1
+7 : Running on Default Tasks..
+Gyro X: -1, Y: -1, Z: -1
+8 : Running on Default Tasks..
+Gyro X: -1, Y: -1, Z: -1
+9 : Running on Default Tasks..
+Gyro X: -1, Y: -1, Z: -1
+10 : Running on Default Tasks..
+Gyro X: -1, Y: -1, Z: -1
+11 : Running on Default Tasks..
+Gyro X: -1, Y: -1, Z: -1
+12 : Running on Default Tasks..
+Gyro X: -1, Y: -1, Z: -1
+13 : Running on Default Tasks..
+Gyro X: -1, Y: -1, Z: -1
+14 : Running on Default Tasks..
+Gyro X: -1, Y: -1, Z: -1
+15 : Running on Default Tasks..
+Gyro X: -1, Y: -1, Z: -1
+16 : Running on Default Tasks..
+Gyro X: -1, Y: -1, Z: -1
+17 : Running on Default Tasks..
+Gyro X: -1, Y: -1, Z: -1
+18 : Running on Default Tasks..
+Gyro X: -1, Y: -1, Z: -1
+19 : Running on Default Tasks..
+Gyro X: -1, Y: -1, Z: -1
+20 : Running on Default Tasks..
+Gyro X: -1, Y: -1, Z: -1
+21 : Running on Default Tasks..
+Gyro X: -1, Y: -1, Z: -1
+22 : Running on Default Tasks..
+Gyro X: -1, Y: -1, Z: -1
+23 : Running on Default Tasks..
+Gyro X: -1, Y: -1, Z: -1
+24 : Running on Default Tasks..
+Gyro X: -1, Y: -1, Z: -1
+25 : Running on Default Tasks..
+Gyro X: -1, Y: -1, Z: -1
+26 : Running on Default Tasks..
+Gyro X: -1, Y: -1, Z: -1
+27 : Running on Default Tasks..
+Gyro X: -1, Y: -1, Z: -1
+28 : Running on Default Tasks..
+Gyro X: -1, Y: -1, Z: -1
+29 : Running on Default Tasks..
+Gyro X: -1, Y: -1, Z: -1
+30 : Running on Default Tasks..
+Gyro X: -1, Y: -1, Z: -1
+31 : Running on Default Tasks..
+Gyro X: -1, Y: -1, Z: -1
+32 : Running on Default Tasks..
+Gyro X: -1, Y: -1, Z: -1
+33 : Running on Default Tasks..
+Gyro X: -1, Y: -1, Z: -1
+34 : Running on Default Tasks..
+Gyro X: -1, Y: -1, Z: -1
+35 : Running on Default Tasks..
+Gyro X: -1, Y: -1, Z: -1
+36 : Running on Default Tasks..
+Gyro X: -1, Y: -1, Z: -1

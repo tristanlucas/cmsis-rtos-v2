@@ -57,6 +57,10 @@ void Error_Handler(void);
 /* USER CODE END EFP */
 
 /* Private defines -----------------------------------------------------------*/
+#define MEMS_CS_Pin GPIO_PIN_3
+#define MEMS_CS_GPIO_Port GPIOE
+#define GREEN_Pin GPIO_PIN_12
+#define GREEN_GPIO_Port GPIOD
 
 /* USER CODE BEGIN Private defines */
 
